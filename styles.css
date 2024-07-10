@@ -1,53 +1,65 @@
-/* Reset default browser styles */
-html, body {
-    margin: 0;
-    padding: 0;
-}
-
 body {
     font-family: Arial, sans-serif;
-    line-height: 1.6;
+    background-color: #1a1a1a;
+    color: #fff;
     padding: 20px;
-    background-color: #f0f0f0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
 }
 
 h1 {
     text-align: center;
-    color: #333;
+    margin-bottom: 30px;
 }
 
-ul {
-    list-style-type: none;
-    padding: 0;
+.anime-manga {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
 }
 
-li {
-    background-color: #fff;
-    border: 1px solid #ccc;
+.item {
+    background-color: #333;
+    padding: 20px;
     border-radius: 5px;
-    margin-bottom: 20px;
-    padding: 15px;
+    overflow: hidden;
 }
 
-li:last-child {
-    margin-bottom: 0;
+.item img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
 }
 
-h2 {
-    color: #333;
-    margin-bottom: 10px;
+.details {
+    padding: 10px 0;
+    text-align: center;
 }
 
-p {
-    margin: 5px 0;
+.details h2 {
+    margin-top: 0;
+    font-size: 1.4rem;
 }
 
-a {
-    color: blue;
+.details p {
+    margin: 10px 0;
+    font-size: 1.2rem;
+}
+
+.details a {
+    display: inline-block;
+    background-color: #4CAF50;
+    color: #fff;
     text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
 }
 
-a:hover {
-    text-decoration: underline;
+.details a:hover {
+    background-color: #45a049;
 }
 
