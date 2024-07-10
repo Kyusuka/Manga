@@ -54,7 +54,7 @@
             <h2>Master: This rebellious disciple is definitely not the Holy Son</h2>
             <p>Latest Chapter: Chapter 58-eng-li</p>
             <p>Status: <span class="status-viewed">VIEWED</span></p>
-            <img class="manga-image" src="https://via.placeholder.com/200x300.png?text=Master" alt="Master Manga Cover">
+            <img class="manga-image" src="31-1696477953.jpg" alt="Master Manga Cover">
             <a href="https://www.mgeko.cc/portal/bookmark/">Read Master: This rebellious disciple is definitely not the Holy Son on Mgeko</a>
         </li>
         
