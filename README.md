@@ -62,7 +62,7 @@
             <h2>In the Night Consumed by Blades, I Walk (Sword Fanatic Wanders Through The Night)</h2>
             <p>Latest Chapter: Chapter 120-eng-li</p>
             <p>Status: <span class="status-viewed">ON GOING</span></p>
-            <img class="manga-image" src="https://via.placeholder.com/200x300.png?text=Night+Consumed+by+Blades" alt="In the Night Consumed by Blades Manga Cover">
+            <img class="manga-image" src="In the Night Consumed by Blades, I Walk (Sword Fanatic Wanders Through The Night).jfif" alt="In the Night Consumed by Blades Manga Cover">
             <a href="https://www.mgeko.cc/portal/bookmark/">Read In the Night Consumed by Blades, I Walk on Mgeko</a>
         </li>
         
@@ -70,7 +70,7 @@
             <h2>The Ghostly Doctor</h2>
             <p>Latest Chapter: Chapter 472-eng-li</p>
             <p>Status: <span class="status-viewed">ON GOING</span></p>
-            <img class="manga-image" src="https://via.placeholder.com/200x300.png?text=Ghostly+Doctor" alt="The Ghostly Doctor Manga Cover">
+            <img class="manga-image" src="The_Ghostly_Doctor.webp" alt="The Ghostly Doctor Manga Cover">
             <a href="https://www.mgeko.cc/portal/bookmark/">Read The Ghostly Doctor on Mgeko</a>
         </li>
         
@@ -78,7 +78,7 @@
             <h2>Legend of Star General</h2>
             <p>Latest Chapter: Chapter 216-eng-li</p>
             <p>Status: <span class="status-viewed">ON GOING</span></p>
-            <img class="manga-image" src="https://via.placeholder.com/200x300.png?text=Legend+of+Star+General" alt="Legend of Star General Manga Cover">
+            <img class="manga-image" src="Legend of Star General.jfif" alt="Legend of Star General Manga Cover">
             <a href="https://www.mgeko.cc/portal/bookmark/">Read Legend of Star General on Mgeko</a>
         </li>
         
@@ -86,7 +86,7 @@
             <h2>Dungeon Reset</h2>
             <p>Latest Chapter: Chapter 206-eng-li</p>
             <p>Status: <span class="status-viewed">ON GOING</span></p>
-            <img class="manga-image" src="https://via.placeholder.com/200x300.png?text=Dungeon+Reset" alt="Dungeon Reset Manga Cover">
+            <img class="manga-image" src="Dungeon Reset.jpg" alt="Dungeon Reset Manga Cover">
             <a href="https://www.mgeko.cc/portal/bookmark/">Read Dungeon Reset on Mgeko</a>
         </li>
         
@@ -94,7 +94,7 @@
             <h2>The Archmage’s Restaurant</h2>
             <p>Latest Chapter: Chapter 40-eng-li</p>
             <p>Status: <span class="status-viewed">ON GOING</span></p>
-            <img class="manga-image" src="https://via.placeholder.com/200x300.png?text=Archmage's+Restaurant" alt="The Archmage’s Restaurant Manga Cover">
+            <img class="manga-image" src="The Archmage’s Restaurant.jfift" alt="The Archmage’s Restaurant Manga Cover">
             <a href="https://www.mgeko.cc/portal/bookmark/">Read The Archmage’s Restaurant on Mgeko</a>
         </li>
         
@@ -102,7 +102,7 @@
             <h2>Talent-Swallowing Magician</h2>
             <p>Latest Chapter: Chapter 82-eng-li</p>
             <p>Status: <span class="status-viewed">ON GOING</span></p>
-            <img class="manga-image" src="https://via.placeholder.com/200x300.png?text=Talent-Swallowing+Magician" alt="Talent-Swallowing Magician Manga Cover">
+            <img class="manga-image" src="images.jfif" alt="Talent-Swallowing Magician Manga Cover">
             <a href="https://www.mgeko.cc/portal/bookmark/">Read Talent-Swallowing Magician on Mgeko</a>
         </li>
         
@@ -110,7 +110,7 @@
             <h2>Genius of the Unique Lineage</h2>
             <p>Latest Chapter: Chapter 76-eng-li</p>
             <p>Status: <span class="status-viewed">ON GOING</span></p>
-            <img class="manga-image" src="https://via.placeholder.com/200x300.png?text=Genius+of+the+Unique+Lineage" alt="Genius of the Unique Lineage Manga Cover">
+            <img class="manga-image" src="images (1).jfif" alt="Genius of the Unique Lineage Manga Cover">
             <a href="https://www.mgeko.cc/portal/bookmark/">Read Genius of the Unique Lineage on Mgeko</a>
         </li>
         
@@ -118,7 +118,7 @@
             <h2>Reincarnation Of The Heavenly Demon</h2>
             <p>Latest Chapter: Chapter 25-eng-li</p>
             <p>Status: <span class="status-viewed">ON GOING</span></p>
-            <img class="manga-image" src="https://via.placeholder.com/200x300.png?text=Reincarnation+Of+The+Heavenly+Demon" alt="Reincarnation Of The Heavenly Demon Manga Cover">
+            <img class="manga-image" src="reincarnation-of-the-heavenly-demon-2.webp" alt="Reincarnation Of The Heavenly Demon Manga Cover">
             <a href="https://www.mgeko.cc/portal/bookmark/">Read Reincarnation Of The Heavenly Demon on Mgeko</a>
         </li>
         
@@ -126,7 +126,7 @@
             <h2>The Lone Necromancer</h2>
             <p>Latest Chapter: Chapter 137-eng-li</p>
             <p>Status: <span class="status-viewed">ON GOING</span></p>
-            <img class="manga-image" src="https://via.placeholder.com/200x300.png?text=Lone+Necromancer" alt="The Lone Necromancer Manga Cover">
+            <img class="manga-image" src="The Lone Necromancer.jfif" alt="The Lone Necromancer Manga Cover">
             <a href="https://www.mgeko.cc/portal/bookmark/">Read The Lone Necromancer on Mgeko</a>
         </li>
         
