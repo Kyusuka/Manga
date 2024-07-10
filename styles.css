@@ -1,118 +1,53 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Manga Library</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            padding: 20px;
-            background-color: #1a1a1a;
-            color: #fff;
-        }
-        h1 {
-            text-align: center;
-            color: #fff;
-        }
-        h2 {
-            color: #fff;
-            font-weight: bold;
-        }
-        ul {
-            list-style-type: none;
-            padding-left: 0;
-        }
-        li {
-            margin-bottom: 20px;
-            border-bottom: 1px solid #ccc;
-            padding-bottom: 10px;
-        }
-        p {
-            margin: 5px 0;
-        }
-        .link {
-            color: blue;
-            text-decoration: underline;
-            cursor: pointer;
-        }
-        .status-viewed {
-            color: green;
-            font-weight: bold;
-        }
-        .status-not-viewed {
-            color: red;
-            font-weight: bold;
-        }
-        .manga-image {
-            width: 200px;
-            height: 300px;
-            object-fit: cover;
-            display: block;
-            margin-bottom: 10px;
-        }
-    </style>
-</head>
-<body>
-    <h1>Manga Library</h1>
-    
-    <ul>
-        <li>
-            <h2>Master: This rebellious disciple is definitely not the Holy Son</h2>
-            <p>Latest Chapter: Chapter 58-eng-li</p>
-            <p>Status: <span class="status-viewed">ON GOING</span></p>
-            <img class="manga-image" src="31-1696477953.jpg" alt="Master Manga Cover">
-            <a href="https://www.mgeko.cc/portal/bookmark/">Read Master: This rebellious disciple is definitely not the Holy Son on Mgeko</a>
-        </li>
-        
-        <li>
-            <h2>In the Night Consumed by Blades, I Walk (Sword Fanatic Wanders Through The Night)</h2>
-            <p>Latest Chapter: Chapter 120-eng-li</p>
-            <p>Status: <span class="status-viewed">ON GOING</span></p>
-            <img class="manga-image" src="In the Night Consumed by Blades, I Walk (Sword Fanatic Wanders Through The Night).jfif" alt="In the Night Consumed by Blades Manga Cover">
-            <a href="https://www.mgeko.cc/portal/bookmark/">Read In the Night Consumed by Blades, I Walk on Mgeko</a>
-        </li>
-        
-        <li>
-            <h2>The Ghostly Doctor</h2>
-            <p>Latest Chapter: Chapter 472-eng-li</p>
-            <p>Status: <span class="status-viewed">ON GOING</span></p>
-            <img class="manga-image" src="The_Ghostly_Doctor.webp" alt="The Ghostly Doctor Manga Cover">
-            <a href="https://www.mgeko.cc/portal/bookmark/">Read The Ghostly Doctor on Mgeko</a>
-        </li>
-        
-        <li>
-            <h2>Legend of Star General</h2>
-            <p>Latest Chapter: Chapter 216-eng-li</p>
-            <p>Status: <span class="status-viewed">ON GOING</span></p>
-            <img class="manga-image" src="Legend of Star General.jfif" alt="Legend of Star General Manga Cover">
-            <a href="https://www.mgeko.cc/portal/bookmark/">Read Legend of Star General on Mgeko</a>
-        </li>
-        
-        <li>
-            <h2>Dungeon Reset</h2>
-            <p>Latest Chapter: Chapter 206-eng-li</p>
-            <p>Status: <span class="status-viewed">ON GOING</span></p>
-            <img class="manga-image" src="Dungeon Reset.jpg" alt="Dungeon Reset Manga Cover">
-            <a href="https://www.mgeko.cc/portal/bookmark/">Read Dungeon Reset on Mgeko</a>
-        </li>
-        
-        <li>
-            <h2>The Archmage’s Restaurant</h2>
-            <p>Latest Chapter: Chapter 40-eng-li</p>
-            <p>Status: <span class="status-viewed">ON GOING</span></p>
-            <img class="manga-image" src="The Archmage’s Restaurant.jfif" alt="The Archmage’s Restaurant Manga Cover">
-            <a href="https://www.mgeko.cc/portal/bookmark/">Read The Archmage’s Restaurant on Mgeko</a>
-        </li>
-        
-        <li>
-            <h2>Talent-Swallowing Magician</h2>
-            <p>Latest Chapter: Chapter 82-eng-li</p>
-            <p>Status: <span class="status-viewed">ON GOING</span></p>
-            <img class="manga-image" src="images.jfif" alt="Talent-Swallowing Magician Manga Cover">
-            <a href="https://www.mgeko.cc/portal/bookmark/">Read Talent-Swallowing Magician on Mgeko</a>
-        </li>
-        
-        <li>
-            <h2>Genius
+/* Reset default browser styles */
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+li:last-child {
+    margin-bottom: 0;
+}
+
+h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+p {
+    margin: 5px 0;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
